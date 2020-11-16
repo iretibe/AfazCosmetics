@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qGFSIfkuvJHh2PYOl/Eb0nq/29iplx3ViW9KNTB2ODEXGTwH2jurMqWbFcGJqvxmjLWHT0OBjFU08imYNo8rxw==",
+  "dgSpecHash": "35caArcvmBwb6X0U6dmgcNMjhNOPI6o1WDxdx7Rbwzu/Nk1D0cceRBFjv+LU7RMPkng+6kRg614EfExefXt3WA==",
   "success": true,
-  "projectFilePath": "C:\\ANGULAR\\AfazCosmetics\\API\\API.csproj",
+  "projectFilePath": "c:\\ANGULAR\\AfazCosmetics\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

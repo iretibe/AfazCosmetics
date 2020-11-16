@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj": {}
+    "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj": {
+    "c:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj",
+        "projectPath": "c:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\ANGULAR\\AfazCosmetics\\Core\\obj\\",
+        "outputPath": "c:\\ANGULAR\\AfazCosmetics\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\ANGULAR\\AfazCosmetics\\Infrastructure\\obj\\",
+        "outputPath": "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -95,8 +95,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj": {
-                "projectPath": "C:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj"
+              "c:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj": {
+                "projectPath": "c:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj"
               }
             }
           }

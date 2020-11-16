@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj": {}
+    "c:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj": {
+    "c:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj",
+        "projectPath": "c:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\ANGULAR\\AfazCosmetics\\Core\\obj\\",
+        "outputPath": "c:\\ANGULAR\\AfazCosmetics\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

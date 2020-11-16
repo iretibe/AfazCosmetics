@@ -2033,11 +2033,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ANGULAR\\AfazCosmetics\\api\\API.csproj",
+      "projectUniqueName": "c:\\ANGULAR\\AfazCosmetics\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\ANGULAR\\AfazCosmetics\\api\\API.csproj",
+      "projectPath": "c:\\ANGULAR\\AfazCosmetics\\API\\API.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\ANGULAR\\AfazCosmetics\\api\\obj\\",
+      "outputPath": "c:\\ANGULAR\\AfazCosmetics\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -2059,8 +2059,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj"
+            "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

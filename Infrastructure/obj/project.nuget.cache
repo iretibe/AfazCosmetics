@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VpS+hEYBamKRGhvSvqNAxFMRoLMMt0ypH4qaHJ2jAuCjdS+yWv55gciuwP1WxRxbM8xsLlZdOxLiDDe94sV9Ww==",
+  "dgSpecHash": "qfFxB2gLlRCJCfMOFj6M9xifUcyNfxjM37DUySRShCGM/AlfwT02VhqPGUu+eOkiImgnQWN38sS0vv96sCGBMg==",
   "success": true,
-  "projectFilePath": "C:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
