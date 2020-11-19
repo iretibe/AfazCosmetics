@@ -1455,25 +1455,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Somad\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\PROJECTS\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\obj\\",
+      "projectPath": "C:\\PROJECTS\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
+      "outputPath": "C:\\PROJECTS\\AfazCosmetics\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Somad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1486,10 +1484,9 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "c:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj": {
-              "projectPath": "c:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj"
+            "C:\\PROJECTS\\AfazCosmetics\\Core\\Core.csproj": {
+              "projectPath": "C:\\PROJECTS\\AfazCosmetics\\Core\\Core.csproj"
             }
           }
         }
@@ -1502,7 +1499,6 @@
     },
     "frameworks": {
       "netstandard2.0": {
-        "targetAlias": "netstandard2.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -1529,7 +1525,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
