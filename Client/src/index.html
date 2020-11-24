@@ -5,12 +5,15 @@
   <title>Client</title>
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="Content-Security-Policy" 
-    content="
-      worker-src blob:; 
-      child-src blob: gap:;
-      img-src 'self' blob: data:;
-      default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: gap: content:">
+  <meta http-equiv="Content-Security-Policy" content="
+        default-src *  data: blob: https: 'unsafe-inline' 'unsafe-eval';
+        script-src * data: blob: https: 'unsafe-inline' 'unsafe-eval';
+        connect-src * data: blob: https: 'unsafe-inline';
+        img-src * data: blob: https: 'unsafe-inline';
+        frame-src * data: blob: https: ;
+        style-src * data: blob: https: 'unsafe-inline';
+        font-src * data: blob: https: 'unsafe-inline';
+    ">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 <body>

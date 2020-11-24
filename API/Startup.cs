@@ -51,7 +51,7 @@ namespace API
 
             app.UseStaticFiles();
 
-            app.UseCors("CorsPolicy");
+            a+pp.UseCors("CorsPolicy");
 
             app.UseAuthorization();
 

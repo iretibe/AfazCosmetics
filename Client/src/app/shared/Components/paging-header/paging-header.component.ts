@@ -11,7 +11,7 @@ export class PagingHeaderComponent implements OnInit {
   @Input() totalCount: number;
 
   constructor() { }
-
+z
   ngOnInit(): void {
   }
 
