@@ -16,3 +16,12 @@ C:\ANGULAR\AfazCosmetics\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 C:\ANGULAR\AfazCosmetics\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
 C:\ANGULAR\AfazCosmetics\Core\obj\Debug\netstandard2.0\Core.dll
 C:\ANGULAR\AfazCosmetics\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\PROJECTS\AfazCosmetics\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\PROJECTS\AfazCosmetics\Core\bin\Debug\netstandard2.0\Core.dll
+C:\PROJECTS\AfazCosmetics\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\PROJECTS\AfazCosmetics\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\PROJECTS\AfazCosmetics\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\PROJECTS\AfazCosmetics\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\PROJECTS\AfazCosmetics\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\PROJECTS\AfazCosmetics\Core\obj\Debug\netstandard2.0\Core.dll
+C:\PROJECTS\AfazCosmetics\Core\obj\Debug\netstandard2.0\Core.pdb

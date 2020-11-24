@@ -2026,25 +2026,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Somad\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\ANGULAR\\AfazCosmetics\\API\\API.csproj",
+      "projectUniqueName": "C:\\PROJECTS\\AfazCosmetics\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\ANGULAR\\AfazCosmetics\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "c:\\ANGULAR\\AfazCosmetics\\API\\obj\\",
+      "projectPath": "C:\\PROJECTS\\AfazCosmetics\\api\\API.csproj",
+      "packagesPath": "C:\\Users\\Somad\\.nuget\\packages\\",
+      "outputPath": "C:\\PROJECTS\\AfazCosmetics\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Somad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2057,10 +2055,9 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "c:\\ANGULAR\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj"
+            "C:\\PROJECTS\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\PROJECTS\\AfazCosmetics\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -2073,7 +2070,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
@@ -2102,12 +2098,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.7, 3.1.7]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -2116,7 +2106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

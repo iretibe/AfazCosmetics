@@ -25,14 +25,22 @@
     "font-awesome": "^4.7.0",
     "ngx-bootstrap": "^5.6.2",
     "rxjs": "^6.5.5",
+    "terser": "^5.4.0",
     "tslib": "^2.0.0",
     "zone.js": "^0.10.3"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@angular-devkit/build-angular": "^0.1100.1",
     "@angular/cli": "^11.0.1",
     "@angular/compiler-cli": "^11.0.0",
     "@types/jasmine": "~3.6.0",
+=======
+    "@angular-devkit/build-angular": "^0.901.12",
+    "@angular/cli": "^11.0.2",
+    "@angular/compiler-cli": "^9.1.7",
+    "@types/jasmine": "^3.5.10",
+>>>>>>> 1bce07a8fb3891ae78947c1745231f2b1ed41631
     "@types/jasminewd2": "^2.0.8",
     "@types/node": "^12.11.1",
     "angular-cli-ghpages": "^0.6.2",

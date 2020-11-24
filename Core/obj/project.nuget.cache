@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "FYCKVQkv1t2n7qVA9NZbUfLUrkg7deoJQpi/ZCxoMCND6lNprd/QVtUxbFLogy1rBqpNLLcYxTtnUZ/Pi72u9g==",
+  "dgSpecHash": "Dnp31Cxox7AWC2XToNVyQ+CZMZ20lP6Jyecafa6BDuNBscAChSatgXq81KKralFj3+uD1z3TsjaSL2j6e1jH7g==",
   "success": true,
-  "projectFilePath": "c:\\ANGULAR\\AfazCosmetics\\Core\\Core.csproj",
+  "projectFilePath": "C:\\PROJECTS\\AfazCosmetics\\Core\\Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Somad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Somad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
